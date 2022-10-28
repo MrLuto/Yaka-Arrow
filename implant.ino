@@ -4,7 +4,7 @@
 
 const char* ssid = "SSID";
 const char* password = "PASSWORD";
-String serverName = "GET REQUEST URL";
+String serverName = "GET REQUEST URL ";
 
 void setup() {
   Serial.begin(115200); 

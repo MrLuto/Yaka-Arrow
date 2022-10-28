@@ -8,12 +8,6 @@ This code listens to pin GPIO0 or D3 on a ESP8266 D1 mini and whaits until it wi
 When it is low it will send a get request to a server and then the server can do whatever you want it to do.
 
 The server will eventually become the arrow if i have enough time to make that.
-## Authors
-
-- [@MrLuto](https://www.github.com/MrLuto)
-
-
-
 ## Roadmap
 
 - Adding code to support an microphone for the implant
@@ -26,3 +20,8 @@ The server will eventually become the arrow if i have enough time to make that.
 ## Inspiration
 
  - [Inspiration Video](https://www.youtube.com/watch?v=sSPpMb0RCFw)
+## Authors
+
+- [@MrLuto](https://www.github.com/MrLuto)
+
+
